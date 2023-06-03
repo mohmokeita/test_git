@@ -1,0 +1,2 @@
+juste savoir comment fonctionne git et github
+je viens d'ajouter une ligne 
