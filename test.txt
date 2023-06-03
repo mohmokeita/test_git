@@ -1,2 +1,3 @@
 juste savoir comment fonctionne git et github
-je viens d'ajouter une ligne 
+je viens d'ajouter une ligne
+je veut voir comment gerer le modifs
